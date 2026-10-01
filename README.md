@@ -1,0 +1,2 @@
+# proj_b26-builderlocate---construction-market-intelligence-platform
+BuilderLocate is a web-based market intelligence dashboard that aggregates construction company and project data from GanarPro, visualizes it geographically, and calculates regional market share metrics. The platform features an interactive map interface for exploring construction activity by territory, a comprehensive company data table with marke
